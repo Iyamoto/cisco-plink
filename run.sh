@@ -10,9 +10,9 @@ password="password"
 
 for ip in $ips
 do
-  echo $ip
   #Execute commands from a file
   $plink -l $user -pw $password $ip < commands.txt > $ip.log
   #Backup config
   $plink -l $user -pw $password $ip "sh run" > $ip.config
+  echo $ip done
 done
