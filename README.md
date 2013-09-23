@@ -8,4 +8,4 @@ cisco-plink
 <p>windows: <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">PuTTY Download Page</a></p>
 
 <h2>Problems</h2>
-<p>To fix an error "Line has invalid autocommand" add extra "new lines" after the command</p>
+<p>To fix an error "Line has invalid autocommand" add extra "new line" after the command</p>
