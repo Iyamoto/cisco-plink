@@ -1,9 +1,8 @@
 cisco-plink
 ===========
 
-Manage cisco devices via ssh (plink)
+<b>Manage cisco devices via ssh (plink)</b>
 
-Install plink
-aptitude install putty-tools
+<p>Install plink</p>
+<p>aptitude install putty-tools</p>
 
-Put cisco ip
