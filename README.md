@@ -1,9 +1,11 @@
 cisco-plink
 ===========
 
-<b>Manage cisco devices via ssh (plink)</b>
+<h1>Manage cisco devices via ssh (plink)</h1>
 
-<p>Install plink: aptitude install putty-tools</p>
+<h2>Install plink</h2>
+<p>linux: aptitude install putty-tools</p>
+<p>windows: <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">PuTTY Download Page</a></p>
 
+<h2>Problems</h2>
 <p>To fix an error "Line has invalid autocommand" add extra "new lines" after the command</p>
-
