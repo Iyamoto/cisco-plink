@@ -1,0 +1,5 @@
+show clock
+show mem
+
+exit
+
